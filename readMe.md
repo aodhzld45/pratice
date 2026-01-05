@@ -4,7 +4,9 @@
 </pre>
 
 <table>
-    <th>테이블머리</th>
+    <th>테이블머리1</th>
+    <th>테이블머리2</th>
+    <th>테이블머리3</th>
     <tr>
         <td>1</td>
         <td>2</td>
